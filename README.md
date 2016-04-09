@@ -5,3 +5,5 @@ Forked von codeforcologne.
 Anschaubar auf http://thahnen.github.io/geburtensterben/
 
 @TODO: Geburten- und Sterbedaten bearbeiten, dass sie im Bild auftauchen! D:
+
+Ältere Version, neue Version unter thahnen.github.io/geburtensterben/ zu finden.
